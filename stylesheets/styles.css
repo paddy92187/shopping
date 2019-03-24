@@ -591,6 +591,12 @@ a:hover {
   .last-total {
     width: 158px;
   }
+  .one input {
+    width: 150px;
+  }
+  .one {
+    width: 200px;
+  }
 }
 
 @media screen and (max-width: 650px) {
